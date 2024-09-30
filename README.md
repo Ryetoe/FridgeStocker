@@ -5,3 +5,6 @@ top priority features:
 \- search features to look up things in your stock
 \- able to store recipes and see ingredients that need to be bought
 down the line:
+\- rotation of recipes from the web
+\- nutrional facts of food
+\- other diet app features...
