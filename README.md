@@ -6,7 +6,7 @@ top priority features:
 - search features to look up things in your stock\
 - able to store recipes as well as add things to stock
 - **able to see what is in your fridge and recipes that you can make with it or recipes that are close to being made**  
-  -  the ingredients that you don't have will be put into the grocery list
+  -  the ingredients that you don't have will be put into the grocery list  
 down the line:  
 - rotation of recipes from the web  
 - nutritional facts of food
