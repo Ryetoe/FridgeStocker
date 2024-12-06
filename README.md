@@ -1,5 +1,5 @@
 # FridgeStocker :fork_and_knife:
-FridgeStocker is a personal app designed to help you keep track of what’s in your fridge and suggest recipes based on those ingredients. It's like a grocery list app with added functionality to help people (like me!) who struggle with deciding what to make for dinner.
+FridgeStocker is a personal app designed to help you keep track of what’s in your fridge and suggest recipes based on those ingredients. It's like a grocery list app with added functionality to help people (like me!) who struggle with deciding what to make for dinner. Full focus to this project will be done over winterbreak :)
 
 ### 🌟 Key Features (In Development):   
 - Grocery List: Add missing ingredients directly to your grocery list when you can’t make a recipe with your current stock.
